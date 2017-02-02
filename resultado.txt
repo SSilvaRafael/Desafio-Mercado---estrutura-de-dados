@@ -1,0 +1,36 @@
+Resultados:
+Horario: 8 Horas. Probabilidade: 0.3
+ Clientes Atendidos: 22 Clientes no caixa: 8 clientes na fila: 0 Total de clientes: 30
+ Numero de Caixas ativo: 8 Média de espera: 0.0 Tempo máximo de espera: 0 Saldo: 15700.0 Custo: 2400.0 Lucro:13300.0
+-----------------------------------------------------------------------------------------------------------
+
+Horario: 10 Horas. Probabilidade: 0.4
+ Clientes Atendidos: 34 Clientes no caixa: 10 clientes na fila: 0 Total de clientes: 44
+ Numero de Caixas ativo: 10 Média de espera: 0.0 Tempo máximo de espera: 0 Saldo: 25703.0 Custo: 3000.0 Lucro:22703.0
+-----------------------------------------------------------------------------------------------------------
+
+Horario: 12 Horas. Probabilidade: 0.5
+ Clientes Atendidos: 31 Clientes no caixa: 12 clientes na fila: 1 Total de clientes: 44
+ Numero de Caixas ativo: 12 Média de espera: 0.0 Tempo máximo de espera: 3 Saldo: 27442.0 Custo: 3600.0 Lucro:23842.0
+-----------------------------------------------------------------------------------------------------------
+
+Horario: 14 Horas. Probabilidade: 0.7
+ Clientes Atendidos: 53 Clientes no caixa: 16 clientes na fila: 0 Total de clientes: 69
+ Numero de Caixas ativo: 16 Média de espera: 0.0 Tempo máximo de espera: 0 Saldo: 43365.0 Custo: 4800.0 Lucro:38565.0
+-----------------------------------------------------------------------------------------------------------
+
+Horario: 16 Horas. Probabilidade: 0.9
+ Clientes Atendidos: 58 Clientes no caixa: 17 clientes na fila: 4 Total de clientes: 79
+ Numero de Caixas ativo: 17 Média de espera: 0.0 Tempo máximo de espera: 6 Saldo: 49393.0 Custo: 5100.0 Lucro:44293.0
+-----------------------------------------------------------------------------------------------------------
+
+Horario: 18 Horas. Probabilidade: 0.8
+ Clientes Atendidos: 47 Clientes no caixa: 18 clientes na fila: 0 Total de clientes: 65
+ Numero de Caixas ativo: 18 Média de espera: 0.0 Tempo máximo de espera: 0 Saldo: 48748.0 Custo: 5400.0 Lucro:43348.0
+-----------------------------------------------------------------------------------------------------------
+
+Horario: 20 Horas. Probabilidade: 0.6
+ Clientes Atendidos: 44 Clientes no caixa: 13 clientes na fila: 1 Total de clientes: 58
+ Numero de Caixas ativo: 13 Média de espera: 0.0 Tempo máximo de espera: 1 Saldo: 32156.0 Custo: 3900.0 Lucro:28256.0
+-----------------------------------------------------------------------------------------------------------
+
